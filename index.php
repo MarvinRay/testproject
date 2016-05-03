@@ -24,6 +24,7 @@ class Profile{
     public function getId(){
 
         return $this->profile->user_id;
+        //
 
     }
 
